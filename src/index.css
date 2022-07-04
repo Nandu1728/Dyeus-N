@@ -102,10 +102,10 @@ text-align: center;
  }
 .Banner1{background: linear-gradient(165.41deg, #D99EC9 0%, rgba(246, 240, 196, 0) 100%);
 }
- /*@font-face {
+ @font-face {
 font-family: 'Reptile';
 src: local('Reptile'), url(../public/Reptile-Medium.otf) format('woff');
-}*/
+}
 .para4{
 font-family: 'Reptile';
 font-style: normal;
@@ -144,4 +144,124 @@ border-radius: 70px!important;
 width: 100%;}
 .para5{
 text-align: justify;
-}      
+}   
+.para6{
+  text-align: justify;
+padding-left: 49px!important;
+padding-right: 49px!important;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 206.5%!important;
+/* or 29px */
+color: rgba(0, 0, 0, 0.8);
+}   
+.btnblue{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 18px 45px;
+  gap: 10px;
+  font-weight: 600;
+  color: white!important;
+  background: linear-gradient(288.62deg, #6E8CF6 42.36%, rgba(110, 213, 246, 0.93) 115.74%);
+  border-radius: 70px!important;
+}
+.size{
+width: 100%;
+}
+.colorred{
+  background: linear-gradient(176.88deg, #F3B8BC 2.58%, #FFDAD4 93.07%);
+}
+.beautiful{
+background-color:   #ffdad4;
+}
+.doctor{
+  background: linear-gradient(270deg, #DADAE4 0.25%, #EEEEF0 24.33%, #F8F8F8 52.08%, #FEFEFE 100%);
+}
+html, body
+  {
+  -ms-content-zooming:none;  
+  overflow-y: hidden; 
+  overflow-x: hidden; 
+  overflow-y: scroll; 
+  overflow-x: none; 
+  }
+  .Banner6{
+    background: rgba(246, 110, 110, 1);
+  }
+  .para9{color: white!important;
+    font-family: 'Reptile';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    padding-left: 33px;
+    padding-right: 33px;
+    line-height: 134.8%;
+  }
+  .setpath{
+color: white!important;
+text-align: justify;
+padding-left: 49px!important;
+padding-right: 49px!important;      
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 206.5%!important;
+/* or 29px */
+  }
+.btnblack{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 18px 45px;
+gap: 10px;
+font-weight: 600;
+color: white!important;
+background-color: black!important;
+border-radius: 70px!important;  }
+.newco{background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 100%);
+      }
+.para10{
+color: rgba(0, 0, 0, 0.8)!important;
+font-family: 'Reptile';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+padding-left: 33px;
+padding-right: 33px;
+background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 100%);
+line-height: 134.8%;
+font-size: x-large;
+line-height: 3rem;
+}
+.footer{
+  color: white;
+background-color: #050506!important;
+}
+.break{
+  background-color:rgb(255, 255, 255)!important;
+  width: 79%!important;
+    margin: 0 auto!important;
+  opacity: 1!important; 
+  color: #ffffff;     }
+  .in{
+    padding-left: 2.5rem;
+    display: inline-block!important;
+  }
+  .btn-c{background-color: rgb(233, 244, 255, 1)!important;
+    border-radius: 5rem!important;}
+    .sic{
+      width: 2rem!important;
+    }
+
+    .set{
+      color: #ffffff;
+      text-decoration: none;
+      font-weight: bold;
+  }
