@@ -104,8 +104,7 @@ text-align: center;
 }
  @font-face {
 font-family: 'Reptile';
-src: local('Reptile'), url(../public/Reptile-Medium.otf) format('woff');
-}
+ }
 .para4{
 font-family: 'Reptile';
 font-style: normal;
