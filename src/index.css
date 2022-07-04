@@ -1,0 +1,147 @@
+.navbar-toggler {
+  color: rgba(0,0,0,.55);
+  border-color: #ffffff!important;
+  border: 1px solid #ffffff00!important
+}
+.round{
+  border-bottom-right-radius: 0.75rem!important;
+  border-bottom-left-radius: 0.75rem!important;
+}
+.nav-shadow {
+  box-shadow: 0 .5rem 1rem #d8e5f2!important;
+  
+}
+.navbar-brand{
+  margin-right: 0rem!important;
+}
+.Banner{    background: linear-gradient(180deg, #FFF6FB 0%, #E7F6FC 33.33%, rgba(213, 224, 255, 0) 100%);}
+.information{
+  font-family: 'Reptile';
+  font-style: normal;
+  font-weight: 500;
+   font-size: 33px;
+   line-height: 30px;
+color: #1B1B50;
+}
+.images{
+  width: 85px;
+  color: #a5a6f6;
+  margin: 2rem;
+}
+.small-content{
+font-family: 'Quicksand';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+color: #1B1B50
+}
+hr{
+background-color:black!important;
+width: 85%!important;
+margin: 0 auto!important;
+opacity: 1!important;
+}
+.small-content2{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 33px;
+/* identical to box height */
+color: #1B1B50;
+}
+.sub-text4{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 33px;
+/* identical to box height */
+color: #1B1B50;}
+.small-content3{
+font-family: 'Reptile';
+font-style: normal;
+font-weight: 500;
+font-size: 33px;
+line-height: 134.8%;
+/* or 44px */
+text-align: center;
+color: #1B1B50;
+}
+.para{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 179%;
+/* or 29px */
+text-align: center;
+color: #1B1B50!important;
+}
+.para2{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 179%;
+/* or 29px */
+text-align: center;
+color: #1B1B50;
+}
+.para3{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 179%;
+/* or 29px */ 
+text-align: center;
+ color: #1B1B50;
+ }
+.Banner1{background: linear-gradient(165.41deg, #D99EC9 0%, rgba(246, 240, 196, 0) 100%);
+}
+ /*@font-face {
+font-family: 'Reptile';
+src: local('Reptile'), url(../public/Reptile-Medium.otf) format('woff');
+}*/
+.para4{
+font-family: 'Reptile';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+padding-left: 33px;
+padding-right: 33px;
+line-height: 134.8%;
+color: #1B1B50;}
+.para5{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 180%;
+/* or 25px */
+text-align: justify;
+color: #1B1B50;
+  }
+.Banner2{
+background: rgba(220, 233, 233, 1)}
+.btnorange{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 18px 45px;
+gap: 10px;
+font-weight: 600;
+color: white!important;
+background: linear-gradient(297.28deg, #F66E6E 67.01%, rgba(246, 110, 110, 0) 123.71%);
+filter: drop-shadow(0px 2px 6px rgba(255, 22, 64, 0.33));
+border-radius: 70px!important;
+      } 
+.pic{
+width: 100%;}
+.para5{
+text-align: justify;
+}      
